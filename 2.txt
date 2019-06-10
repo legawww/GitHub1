@@ -1,2 +1,6 @@
 2
+<<<<<<< HEAD
 Add br2 changes
+=======
+branch 3 changes
+>>>>>>> master
